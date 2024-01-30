@@ -1,1 +1,1 @@
-# gpt.github.io
+# ai-boost.github.io
