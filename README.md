@@ -107,5 +107,5 @@ GitHub Pages automatically serves the content from the `main` branch of your rep
 To update your website, simply make changes to your files, commit, and push them to your GitHub repository. GitHub Pages will automatically rebuild and redeploy your site.
 
 
-# Thanks
+# Thanks 🥰
 This website is based on Phantom template from @ajlkn in html5up. Thanks for the open sourced html template, I only spent less than 10 minutes creating this website using this template.
