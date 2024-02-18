@@ -1,5 +1,6 @@
 # Awesomegpts.vip 🦄️
 This code repository contains **all the code** for the website https://awesomegpts.vip.
+![AwesomeGPTs gif](https://github.com/ai-boost/ai-boost.github.io/blob/main/images/awesomegpts.gif?raw=true)
 
 ## Code Structure 🏗️
 ```
